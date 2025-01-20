@@ -1,6 +1,0 @@
-[deploy]
-restartPolicyType = "on_failure"
-restartPolicyMaxRetries = 3
-
-[cron]
-schedule = "0 16 * * *"  # Run at midnight Shanghai time (UTC+8 -> 16:00 UTC)
