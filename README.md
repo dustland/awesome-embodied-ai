@@ -157,12 +157,13 @@ Embodied Intelligence refers to AI systems that learn and interact through physi
 
 ## Datasets
 
-### Robot Learning Datasets
+### Robot Learning Datasets & Models
 
 - [RoboNet](https://www.robonet.wiki/) - Large-scale robot manipulation dataset
 - [BEHAVIOR-1K](https://behavior.stanford.edu/) - Dataset of human household activities
 - [Google Robot Data](https://github.com/google-research/robotics_datasets) - Various robotics datasets
 - [Contact-GraspNet](https://github.com/NVlabs/contact-graspnet) - Dataset for robotic grasping
+- [π0](https://github.com/Physical-Intelligence/openpi) - Opensource VLA models by Physical Intelligence
 
 ### Human Motion Datasets
 
